@@ -1,1 +1,2 @@
 # Real-Estate-Search-Engine
+This Real Estate Search Engine implements a complete Information Retrieval (IR) pipeline from scratch. Using a dataset of property descriptions as its core corpus, the system handles everything from raw data collection and text preprocessing to building a robust inverted index. By leveraging powerful libraries like PyTerrier, NLTK, and scikit-learn, the engine executes advanced searches using TF-IDF ranking and embedding-based query expansion to deliver highly accurate and relevant results
